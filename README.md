@@ -1,0 +1,2 @@
+# assets-htjrca
+static assets
